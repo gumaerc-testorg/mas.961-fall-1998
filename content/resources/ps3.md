@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b70d7bac-400b-1276-be43-7106b345a0f5
 resourcetype: Document
 title: 'Problem Set 3: Our World of Colours'
 uid: 9d5e6660-42b1-8175-ca6f-fa62681868d6
