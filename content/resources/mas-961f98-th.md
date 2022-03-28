@@ -13,6 +13,7 @@ image_metadata:
   image-alt: An image of student work.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: Numeric Photography (thumbnail)
 uid: b1358bbc-db8c-53fd-42a7-7134c97b0e0f
