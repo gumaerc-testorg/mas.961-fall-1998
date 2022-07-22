@@ -5,6 +5,7 @@ file: /courses/mas-961-numeric-photography-fall-1998/9a208df8bce1841cf99666b2705
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 4: Cross Your Fingers'
 uid: 9a208df8-bce1-841c-f996-66b27059dba3
 ---
 Photography assignment.
-

@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: An image of student work.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Numeric Photography (thumbnail)
 uid: b1358bbc-db8c-53fd-42a7-7134c97b0e0f
 ---
 A composite image whose cells contain example images of each student's work. Cell boundaries were blended with custom software developed by MAS.961 student Marc Downie. (Courtesy of Marc Downie. Used with permission.)
-

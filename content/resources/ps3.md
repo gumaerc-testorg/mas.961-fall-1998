@@ -5,6 +5,7 @@ file: /courses/mas-961-numeric-photography-fall-1998/9d5e666042b18175ca6ffa62681
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 3: Our World of Colours'
 uid: 9d5e6660-42b1-8175-ca6f-fa62681868d6
 ---
 Photography assignment.
-

@@ -5,6 +5,7 @@ file: /courses/mas-961-numeric-photography-fall-1998/f09f3b1aeee19a9ec98acb5346b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set 1: FFT-PAINT'
 uid: f09f3b1a-eee1-9a9e-c98a-cb5346b45ffe
 ---
 Photography assignment.
-
