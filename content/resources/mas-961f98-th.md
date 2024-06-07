@@ -4,6 +4,7 @@ description: A composite image whose cells contain example images of each studen
   work. Cell boundaries were blended with custom software developed by MAS.961 student
   Marc Downie. (Courtesy of Marc Downie. Used with permission.)
 file: /courses/mas-961-numeric-photography-fall-1998/b1358bbcdb8c53fd42a77134c97b0e0f_mas-961f98-th.jpg
+file_size: 8955
 file_type: image/jpeg
 image_metadata:
   caption: A composite image whose cells contain example images of each student's
