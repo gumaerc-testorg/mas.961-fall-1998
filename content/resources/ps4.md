@@ -2,6 +2,7 @@
 content_type: resource
 description: Photography assignment.
 file: /courses/mas-961-numeric-photography-fall-1998/9a208df8bce1841cf99666b27059dba3_ps4.pdf
+file_size: 51421
 file_type: application/pdf
 learning_resource_types:
 - Assignments
