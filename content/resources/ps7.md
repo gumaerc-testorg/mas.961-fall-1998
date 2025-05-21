@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photography assignment.
-file: /ol-ocw-studio-app/courses/mas-961-numeric-photography-fall-1998/41d409d6f753b4b27e359d9a611eebf5_ps7.pdf
+file: /courses/mas-961-numeric-photography-fall-1998/41d409d6f753b4b27e359d9a611eebf5_ps7.pdf
 file_size: 15533
 file_type: application/pdf
 learning_resource_types:
