@@ -84,4 +84,4 @@ This course is sponsored with generous donations from Minolta and Interval Resea
 Exhibition
 ----------
 
-An exhibition of student work was held at the MIT Media Laboratory atrium on December 11th, 1998. Information about this show, and its permanent online component, is available in the [projects](http://acg.media.mit.edu/courses/mas961/exhibition/overview.html) section.
+An exhibition of student work was held at the MIT Media Laboratory atrium on December 11th, 1998. Information about this show, and its permanent online component, is available in the {{% resource_link "9a4b7609-783c-433c-9ea0-73f9c20eb413" "projects" %}} section.
